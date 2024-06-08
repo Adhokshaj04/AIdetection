@@ -71,8 +71,8 @@ Development of adaptive models that dynamically choose the best text representat
 Evaluation on a wider range of datasets to confirm generalizability.
 Investigation into the scalability and real-time use of these models.
 
-**How to Use This Project
-**
+**How to Use This Project**
+
 Prerequisites
 Python 3.x
 Required libraries: scikit-learn, pandas, numpy, transformers (Hugging Face)
