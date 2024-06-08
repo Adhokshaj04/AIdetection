@@ -27,6 +27,7 @@ This project enhances the precision and reliability of AI text identification by
 6. Conclusion: Summary of the study and suggestions for future research.
  
 **Methodology**
+
 Data Preparation
 Two distinct datasets are used:
 
