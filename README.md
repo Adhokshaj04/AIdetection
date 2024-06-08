@@ -62,10 +62,11 @@ Ensemble Model Performance: Combining models improves classification accuracy an
 Methodological Insights: Highlighting the complexity of text representation and suggesting future work on adaptive models.
 
 **Conclusion**
+
 The study successfully compares TF-IDF and BERT in identifying AI-generated texts, emphasizing the importance of both methods depending on the context. Future research should explore hybrid models and their scalability in various operational scenarios.
 
-**Future Work
-**
+**Future Work**
+
 Development of adaptive models that dynamically choose the best text representation technique.
 Evaluation on a wider range of datasets to confirm generalizability.
 Investigation into the scalability and real-time use of these models.
